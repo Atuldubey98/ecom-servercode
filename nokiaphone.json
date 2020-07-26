@@ -1,0 +1,37 @@
+[
+	{
+		"phone": "Nokia Lumiya 1020",
+		"os": "windows",
+		"size_inch": "4.5",
+		"size_cm": "11.0",
+		"ppi": "332"
+	},
+	{
+		"phone": "Nokia Lumiya 520",
+		"os": "windows",
+		"size_inch": "4.0",
+		"size_cm": "10.0",
+		"ppi": "233"
+	},
+	{
+		"phone": "Nokia Lumiya 620",
+		"os": "windows",
+		"size_inch": "3.8",
+		"size_cm": "9.7",
+		"ppi": "247"
+	},
+	{
+		"phone": "Nokia Lumiya 720",
+		"os": "windows",
+		"size_inch": "4.3",
+		"size_cm": "10.9",
+		"ppi": "217"
+	},
+	{
+		"phone": "Nokia Lumiya 900",
+		"os": "windows",
+		"size_inch": "4.3",
+		"size_cm": "11.0",
+		"ppi": "217"
+    }
+]
